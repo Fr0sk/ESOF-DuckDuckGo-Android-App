@@ -54,6 +54,7 @@ Vinicius Ferretti ( @ViniciusFerretti ) has contributed in:
 ## Contributions (in alphabetical order):
 
 Filipe Coelho ( @Fr0sk ) has contributed in:
+* Identify a new bug and/or correct a bug
 
 Luís Cruz ( @Luis-bcruz ) has contributed in:
 
