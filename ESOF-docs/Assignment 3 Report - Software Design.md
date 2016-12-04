@@ -14,13 +14,20 @@ Shows the system in a programer's prespective way, showing the system software i
 
 * Deployment View:
 shows the system hardware and how software components are distributed across the hardware nodes. It uses the Deplyment Diagram to describe this view.
+<img src="https://github.com/Fr0sk/ESOF-DuckDuckGo-Android-App/blob/master/ESOF-docs/resources/Development%20_view.png" />
 
 * Process View:
 Shows how the system processes interact, showing how processes communicate, and the run time behavior the system. Uses the activity diagram to discribe the process view.
+<img src="https://github.com/Fr0sk/ESOF-DuckDuckGo-Android-App/blob/master/ESOF-docs/resources/Assignment%203%20-%20Process%20View.svg" />
 
 * Use Case View (+1):
 Joins the other views and show how they interact. It is used to identify the architecture design and is useful for tests of an architecture prototype.
 
+* Development View:
+<img src="https://github.com/Fr0sk/ESOF-DuckDuckGo-Android-App/blob/master/ESOF-docs/resources/Development%20_view.png" />
+
+* Package Diagram:
+<img src="https://github.com/Fr0sk/ESOF-DuckDuckGo-Android-App/blob/master/ESOF-docs/resources/Package%20Diagram.png" />
   
 The architecture partterns is a general solution that has as standards dealing with various issues in software engineering, such as computer hardware performance limitations, high availability and minimization of a business risk among others. In this project the architectural pattern followed is data modeling, a process used to define and analyze data requirements needed to support business processes within the corresponding information systems in organizations.
   
