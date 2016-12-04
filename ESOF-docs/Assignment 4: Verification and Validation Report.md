@@ -86,4 +86,4 @@ Luís Cruz ( @Luis-bcruz ) has contributed in:
 Shivam Agrawal ( @shivam-agr ) has contributed in:
 
 Vinicius Ferretti ( @ViniciusFerretti ) has contributed in:
-* Software Testability and Reviews:
+* Software Testability and Reviews
