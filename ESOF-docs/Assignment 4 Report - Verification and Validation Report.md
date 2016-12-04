@@ -73,7 +73,13 @@ Analyzing the project graphic, see the number of files with the respective grade
 ![project quality graphic] (https://github.com/Fr0sk/ESOF-DuckDuckGo-Android-App/blob/master/ESOF-docs/resources/project_quality.png)
 
 ##Bug Report:
-The issue we found and chose to resolve was the <a href="https://github.com/duckduckgo/android/issues/274" target="_blank">#274</a> that when the user use tor a bit and then disable it in settings, it keeps using tor until the app is restarted.
+The issue we found and chose to resolve is listed as the <a href="https://github.com/duckduckgo/android/issues/274" target="_blank">#274</a>.
+
+The bug could be reproduced by activating the "Enabling Tor" toggle in the settings page, leaving the settings page and then deactivating it. Through the Orbot notification message we could see that it was still being used.
+
+We updated the code in order to disable the proxy setting when the toggle was disabled. While that was supposed to fix the problem, it seems that the library (Orbot) isn't disabling the proxy correctly once it has been set. So, in order to make it work, a dialog was added informing the user that the application should be restarted in order to completely disable Tor, and adding the option to automatic restart the application.
+
+No test was added because the project isn't using any, and because the validation should come from the library and not from the application.
 
 ##Contributions:
 Filipe Coelho ( @Fr0sk ) has contributed in:
