@@ -86,6 +86,7 @@ Luís Cruz ( @Luis-bcruz ) has contributed in:
 * Test Statistics and analytics.
 
 Shivam Agrawal ( @shivam-agr ) has contributed in:
+* Test Statistics and analytics.
 
 Vinicius Ferretti ( @ViniciusFerretti ) has contributed in:
 * Software Testability and Reviews
