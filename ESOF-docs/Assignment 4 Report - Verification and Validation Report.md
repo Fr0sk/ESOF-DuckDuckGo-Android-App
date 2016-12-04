@@ -79,7 +79,7 @@ The bug could be reproduced by activating the "Enabling Tor" toggle in the setti
 
 We updated the code in order to disable the proxy setting when the toggle was disabled. While that was supposed to fix the problem, it seems that the library (Orbot) isn't disabling the proxy correctly once it has been set. So, in order to make it work, a dialog was added informing the user that the application should be restarted in order to completely disable Tor, and adding the option to automatic restart the application.
 
-No test was added because the project isn't using any, and because the validation should come from the library and not from the application.
+A pull request was added with the id <a href="https://github.com/duckduckgo/android/pull/275" target="_blank">#275</a>. 
 
 ##Contributions:
 Filipe Coelho ( @Fr0sk ) has contributed in:
