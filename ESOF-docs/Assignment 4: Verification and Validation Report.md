@@ -74,7 +74,7 @@ Analyzing the project graphic, see the number of files with the respective grade
 ![project quality graphic] (https://github.com/Fr0sk/ESOF-DuckDuckGo-Android-App/blob/master/ESOF-docs/resources/project_quality.png)
 
 ##Bug Report:
-The bug we found and chose to resolve was the *bug* that when the user use tor a bit and then disable it in settings, it keeps using tor until you restart the app. 
+The issue we found and chose to resolve was the <a href="https://github.com/duckduckgo/android/issues/274" target="_blank">#274</a> that when the user use tor a bit and then disable it in settings, it keeps using tor until the app is restarted.
 
 ##Contributions:
 Filipe Coelho ( @Fr0sk ) has contributed in:
