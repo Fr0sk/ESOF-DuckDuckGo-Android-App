@@ -11,6 +11,20 @@ Finally, we will show the process of correcting a bug in our project, followed b
 
 ##Software Testability and Reviews:
 
+In the end, is possible to conclude that the methods used for the application test are dependent on the technology used, in others words, different test need different approaches. 
+
+Controlabillity is the application of testing is fast, but in the same moment it is not easy to control the components are being tested because of the speedy of processing and the dependencies. 
+
+As observability, using the android studio software is possible to see the operations of test through the “Event Log” and “Gradle Console”.
+
+In isolability we can to test the components and functions to see if the software will work right.
+
+The componets that have the specific functions for the operation of the program. If don’t working right, may cause the problem in the execution of program.
+
+For the comprehensibility of the application it was necessary an exchange of emails and information’s with developments for the due explanations of the operation of the test.
+
+Reading and observing the information about this Project, some information about the capacity of the test of this project was gathered.
+
 
 ##Test Statistics and analytics:
 
