@@ -11,20 +11,19 @@ Finally, we will show the process of correcting a bug in our project, followed b
 
 ##Software Testability and Reviews:
 
-In the end, is possible to conclude that the methods used for the application test are dependent on the technology used, in others words, different test need different approaches. 
+Throughout the analysis of this Project, we gathered some information about it's test capacity.
 
-Controlabillity is the application of testing is fast, but in the same moment it is not easy to control the components are being tested because of the speedy of processing and the dependencies. 
+About controlabillity we can say the the test is fast, but at the same time it's not easy to control the components that are being tested because of the speedy of processing and the dependencies. 
 
-As observability, using the android studio software is possible to see the operations of test through the “Event Log” and “Gradle Console”.
+As observability, using the android studio software, is possible to see the operations of test through the “Event Log” and “Gradle Console”.
 
-In isolability we can to test the components and functions to see if the software will work right.
+In isolability we can test the components and functions to see if the software will work right.
 
-The componets that have the specific functions for the operation of the program. If don’t working right, may cause the problem in the execution of program.
+The componets that have specific functions for the operation of the program: if they aren’t working right, it may cause problems during the execution of program.
 
-For the comprehensibility of the application it was necessary an exchange of emails and information’s with developments for the due explanations of the operation of the test.
+For the comprehensibility of the application it was necessary to exchange emails and information with developers in order to get explanations about the testing suit.
 
-Reading and observing the information about this Project, some information about the capacity of the test of this project was gathered.
-
+In the end, is possible to conclude that the methods used for the application test are dependent on the technology used, in others words, different test need different approaches.
 
 ##Test Statistics and analytics:
 
