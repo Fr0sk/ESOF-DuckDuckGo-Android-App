@@ -54,3 +54,9 @@ System requirements:
 -> Take a maximum of 80MB of memory during a search. 
 
 -> Take a maximum of 80% of CPU processment during a search.
+
+## Domain Model
+<img src="https://github.com/Fr0sk/ESOF-DuckDuckGo-Android-App/blob/master/ESOF-docs/resources/Assignment%202%20-%20Domain%20Model.png" />
+
+## Usecase
+<img src="https://github.com/Fr0sk/ESOF-DuckDuckGo-Android-App/blob/master/ESOF-docs/resources/Assignment%202%20-%20Usecase.png" />
