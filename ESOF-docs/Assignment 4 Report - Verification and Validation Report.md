@@ -68,7 +68,7 @@ Analyzing the issue severity graphic, we can see the percentage of infos (27.2%)
 
 ![issue severity graphic] (https://github.com/Fr0sk/ESOF-DuckDuckGo-Android-App/blob/master/ESOF-docs/resources/code_severity.png)
 
-Analyzing the project graphic, see the number of files with the respective grade. As we can see there are a very low percentage of C and D files, and a very high percentage of A graded files (83,3%) which is a very good sign, showing organization and discipline.
+Analyzing the project graphic, we see the number of files with the respective grade. As we can see there are a very low percentage of C and D files, and a very high percentage of A graded files (83,3%) which is a very good sign, showing organization and discipline.
 
 ![project quality graphic] (https://github.com/Fr0sk/ESOF-DuckDuckGo-Android-App/blob/master/ESOF-docs/resources/project_quality.png)
 
