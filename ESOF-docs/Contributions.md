@@ -54,10 +54,15 @@ Vinicius Ferretti ( @ViniciusFerretti ) has contributed in:
 ## Contributions (in alphabetical order):
 
 Filipe Coelho ( @Fr0sk ) has contributed in:
+* Software Testability and Reviews
 * Identify a new bug and correct a bug
+* Bug Report
 
 Luís Cruz ( @Luis-bcruz ) has contributed in:
+* Introduction of verification and validation
+* Test Statistics and analytics.
 
 Shivam Agrawal ( @shivam-agr ) has contributed in:
 
 Vinicius Ferretti ( @ViniciusFerretti ) has contributed in:
+* Software Testability and Reviews
