@@ -77,7 +77,9 @@ The issue we found and chose to resolve was the <a href="https://github.com/duck
 
 ##Contributions:
 Filipe Coelho ( @Fr0sk ) has contributed in:
+* Identify a new bug and correct a bug
 * Bug Report
+
 Luís Cruz ( @Luis-bcruz ) has contributed in:
 * Introduction of verification and validation
 * Test Statistics and analytics.
