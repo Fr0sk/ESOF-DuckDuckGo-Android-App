@@ -74,7 +74,7 @@ Analyzing the project graphic, see the number of files with the respective grade
 ![project quality graphic] (https://github.com/Fr0sk/ESOF-DuckDuckGo-Android-App/blob/master/ESOF-docs/resources/project_quality.png)
 
 ##Bug Report:
-The bug we chose to resolve was the *bug* [#258](https://github.com/duckduckgo/android/issues/258) listed in the issues, and consists in the app crashing when trying to navigate using the arrow keys on a keyboard or on a device with physical keys.
+The bug we found and chose to resolve was the *bug* that when the user use tor a bit and then disable it in settings, it keeps using tor until you restart the app. 
 
 ##Contributions:
 Filipe Coelho ( @Fr0sk ) has contributed in:
