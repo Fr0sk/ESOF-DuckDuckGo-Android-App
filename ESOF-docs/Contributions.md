@@ -63,6 +63,26 @@ Luís Cruz ( @Luis-bcruz ) has contributed in:
 * Test Statistics and analytics.
 
 Shivam Agrawal ( @shivam-agr ) has contributed in:
+* Test Statistics and analytics
 
 Vinicius Ferretti ( @ViniciusFerretti ) has contributed in:
 * Software Testability and Reviews
+
+# Assignment 5: Software Maintenance and Evolution
+## Contributions (in alphabetical order):
+
+Filipe Coelho ( @Fr0sk ) has contributed in:
+* Software Maintainability using the SIG metrics
+* Feature Selection
+* Feature Implementation
+* Link to pull request
+
+Luís Cruz ( @Luis-bcruz ) has contributed in:
+
+Shivam Agrawal ( @shivam-agr ) has contributed in:
+* Feature Selection
+* Report evolution process
+
+Vinicius Ferretti ( @ViniciusFerretti ) has contributed in:
+* Feature Selection
+* Report evolution process
