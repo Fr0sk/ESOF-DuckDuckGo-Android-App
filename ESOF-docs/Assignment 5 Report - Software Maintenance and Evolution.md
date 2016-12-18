@@ -68,7 +68,7 @@ Writing clean code, in every application, is always the best approach. With clea
 
 ##Report evolution process:
 
-When analyzing some of the features available in github and some tests in the application, the group chose a feature to be implemented (Open Link in the External Browser), because the team found interesting and that it would bring some value to an application, which already had references before. The feature to be implemented is intended to open search results pages in an external browser.
+When analyzing some of the features available in github and some tests in the application, we chose a feature to be implemented (Open Link in the External Browser), because we found interesting and that it would bring some value to an application, which already had references before. The feature that is implemented is intended to open search results pages in an external browser. And to locate the parts in the source code that needed to be modified we looked for the call stack from the web view, and went up level by level until we found where the search method was through where the changes were ment to be done. 
 
 ##Link to pull request:
 The feature we worked on implementing is listed as <a href="https://github.com/duckduckgo/android/issues/272">#272</a> and the pull request we made in order to implement it is the <a href="https://github.com/duckduckgo/android/pull/277">#277</a>
@@ -84,6 +84,7 @@ Luís Cruz ( @Luis-bcruz ) has contributed in:
 
 Shivam Agrawal ( @shivam-agr ) has contributed in:
 * Feature Selection
+* Report evolution process 
 
 Vinicius Ferretti ( @ViniciusFerretti ) has contributed in:
 * Feature Selection
