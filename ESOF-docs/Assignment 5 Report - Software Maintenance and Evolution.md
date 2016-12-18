@@ -69,12 +69,14 @@ Writing clean code, in every application, is always the best approach. With clea
 ##Report evolution process:
 
 ##Link to pull request:
-
+The feature we worked on implementing is listed as <a href="https://github.com/duckduckgo/android/issues/272">#272</a> and the pull request we made in order to implement it is the <a href="https://github.com/duckduckgo/android/pull/277">#277</a>
 
 ##Contributions:
 Filipe Coelho ( @Fr0sk ) has contributed in:
 * Software Maintainability using the SIG metrics 
 * Feature Selection
+* Feature Implementation
+* Link to pull request
 
 Luís Cruz ( @Luis-bcruz ) has contributed in:
 
