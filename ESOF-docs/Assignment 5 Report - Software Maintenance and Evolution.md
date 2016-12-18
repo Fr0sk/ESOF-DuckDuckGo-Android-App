@@ -81,6 +81,7 @@ Filipe Coelho ( @Fr0sk ) has contributed in:
 * Link to pull request
 
 Luís Cruz ( @Luis-bcruz ) has contributed in:
+* Report evolution process
 
 Shivam Agrawal ( @shivam-agr ) has contributed in:
 * Feature Selection
