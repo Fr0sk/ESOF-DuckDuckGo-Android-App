@@ -74,9 +74,12 @@ Writing clean code, in every application, is always the best approach. With clea
 ##Contributions:
 Filipe Coelho ( @Fr0sk ) has contributed in:
 * Software Maintainability using the SIG metrics 
+* Feature Selection
 
 Luís Cruz ( @Luis-bcruz ) has contributed in:
 
 Shivam Agrawal ( @shivam-agr ) has contributed in:
+* Feature Selection
 
 Vinicius Ferretti ( @ViniciusFerretti ) has contributed in:
+* Feature Selection
